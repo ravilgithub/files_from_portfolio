@@ -1,1 +1,1 @@
-my_rss_module - модуль для joomla 3 написанный мною для сайта "http://raviljoom.zzz.com.ua/"
+my_rss_module - module for joomla 3 written by me for the site "http://raviljoom.zzz.com.ua/"
